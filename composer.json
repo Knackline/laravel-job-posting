@@ -1,0 +1,16 @@
+{
+    "name": "knackline/laravel-job-posting",
+    "description": "A Laravel package for generating Google JobPosting JSON-LD structured data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Knackline\\LaravelJobPosting\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "RAJKUMAR SAMRA",
+        "email": "rajkumarsamra@gmail.com"
+    }],
+    "require": {}
+}
